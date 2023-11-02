@@ -1,0 +1,20 @@
+.loginButton {
+    width: 55px;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    background: #f60ba8;
+    box-shadow: 0 5px 0 #f7a6dc;
+    align-items: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.loginButton:hover {
+    background: #f7a6dc;
+    box-shadow: none;
+    position: relative;
+    top: 5px;
+}

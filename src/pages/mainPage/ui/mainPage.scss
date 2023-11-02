@@ -1,0 +1,27 @@
+.mainDiv{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #ffffff;
+    height: 90vh;
+}
+.formdiv{
+    border-radius: 3px;
+    position: relative;
+    width: 450px;
+    padding: 40px 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: #f3b6b6;
+    border-radius: 8px;
+
+}
+.input2{
+    width: 300px;
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid #cecece;
+	background: #F6F6f6;
+	border-radius: 8px;
+    margin: 10px;
+}

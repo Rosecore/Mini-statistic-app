@@ -1,0 +1,19 @@
+.chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chart {
+    cursor: pointer;
+    -webkit-tap-highlight-color: #1e1e1e;
+}
+.chart-info{
+    width: 99px;
+    height: 100px;
+    /* align-items: center; */
+    background: white;
+    display: inline-flex;
+    /* z-index: auto; */
+    position: absolute;
+}
